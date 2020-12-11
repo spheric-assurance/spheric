@@ -1,0 +1,19 @@
+{
+  "name": "spheric",
+  "version": "1.0.0",
+  "description": "Framework back-end for Spheric Assurance and Global Insurance Agency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spheric-assurance/spheric.git"
+  },
+  "author": "Daniel Munoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spheric-assurance/spheric/issues"
+  },
+  "homepage": "https://github.com/spheric-assurance/spheric#readme"
+}
